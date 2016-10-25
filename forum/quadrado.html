@@ -1,0 +1,47 @@
+<canvas id="tela" width="1250" height="920"></canvas>
+<meta charset="utf-8">
+
+<html>
+<head>
+    <title> Quadrado </title>
+</head>
+
+<body>
+
+</body>
+
+<script>
+    var qntQuadrado = parseInt(prompt("Quantos quadrados você quer fazer?"));
+
+    var cor = prompt("Que cor você gostaria de pintar os Quadrado?");
+
+    var altura = parseInt(prompt("Informe a altura/largura dos Quadrado"));
+
+    var largura = parseInt(prompt("Informe a largura dos Quadrado"));
+    
+    var fazQuadrado = function(qntQuadrado,x,y){
+        var tela = document.getElementById("tela");
+        var c = tela.getContext("2d");
+        c.fillStyle = cor;
+        c.fillRect(x,y,altura,largura);
+        c.strokeStlye = "black";
+        c.strokeRect(x,y,altura,largura);
+
+    }
+    for(var x = 0; x < 600; x = x + largura){
+        for(var y = 0; y < 600; y = y + altura){
+            fazQuadrado(x,y,altura,largura);
+        }
+    }
+
+</script>
+
+
+
+
+
+
+
+
+
+</html>
