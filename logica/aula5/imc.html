@@ -1,4 +1,5 @@
 <meta charset="UTF-8">
+
 <script>
 
     function pulaLinha() {
@@ -12,11 +13,15 @@
         document.write(frase);
         pulaLinha();
     }
-    var pesoFlavio = 112;
-    var alturaFlavio = 1.87;
-    var imcFlavio = pesoFlavio / (alturaFlavio * alturaFlavio);
 
-    mostra("O imc do Flávio é " + imcFlavio);
+    function calculaImc(altura,peso){
 
+        // var imc = peso / (altura * altura);//
+        return imc = peso / (altura * altura);;
+    }
+    var imcFlavio = calculaImc(1.71,73);
+    var imcAmigo = calculaImc(1.72,68);
 
+    mostra(imcFlavio);
+    mostra(imcAmigo);
 </script>
