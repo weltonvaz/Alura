@@ -6,14 +6,15 @@
   var tela = document.querySelector('canvas');
   var pincel = tela.getContext('2d');
 
-  // Triangulo externo
+  //  Triângulos externo
+  pincel.fillStyle = 'black';
   pincel.beginPath();
   pincel.moveTo(50, 50);
   pincel.lineTo(50, 400);
   pincel.lineTo(400,400);
   pincel.fill();
 
-  // Triangulo interno
+  //  Triângulos interno
   pincel.fillStyle = 'white';
   pincel.beginPath();
   pincel.moveTo(100, 175);
