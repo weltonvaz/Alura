@@ -1,0 +1,34 @@
+<meta charset="UTF-8">
+
+<script>
+    function numeroAleatorio(a){
+
+        var numeroAleatorio = Math.round(Math.random() * a);
+
+        return numeroAleatorio;
+
+        }
+
+    var numeroAleatorio = numeroAleatorio(100);
+
+    console.log(numeroAleatorio);
+
+    var numeroChute = parseInt(prompt("Digite um numero: "));
+
+    var limiteTentativas = 5;
+
+    for(i=1;i<=limiteTentativas;i++){
+
+        if(numeroChute==numeroAleatorio){
+
+            alert("Parabéns! Você acertou!");
+            break;
+        } else if(numeroChute<numeroAleatorio){
+            alert("O número chutado é menor!");
+        } else {
+            alert("O número chutado é maior!");
+            }
+
+        }
+
+</script>
