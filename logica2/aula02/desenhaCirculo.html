@@ -11,7 +11,20 @@
 
         pincel.fillStyle = cor;
         pincel.beginPath();
-        pincel.arc(x, y, raio, 0, 2*3.14);
+        pincel.arc(x, y, raio, 0, 2 * Math.PI);
         pincel.fill();
     }
+
+    function desenhaFlor(x, y) {
+
+        desenhaCirculo(x, y+20, 10, 'blue');
+        desenhaCirculo(x, y, 10, 'red');
+        desenhaCirculo(x, y-20, 10, 'yellow');
+        desenhaCirculo(x-20, y, 10, 'orange');
+        desenhaCirculo(x+20, y, 10, 'black');
+    }
+
+    desenhaFlor(300, 200);
+    desenhaFlor(300, 100);
+
 </script>
