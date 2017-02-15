@@ -1,10 +1,9 @@
 <canvas id="tela" width="600" height="400"></canvas>
 <script>
-
     var tela = document.querySelector("canvas");
     var pincel = tela.getContext("2d");
 
-    pincel.fillStyle="gray";
+    pincel.fillStyle = "gray";
     pincel.fillRect(0, 0, 600, 400);
 
     function desenhaCirculo(evento) {
@@ -18,5 +17,4 @@
     }
 
     tela.onclick = desenhaCirculo;
-
 </script>
