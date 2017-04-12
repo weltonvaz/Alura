@@ -2,7 +2,7 @@ print("*********************************")
 print("Bem vindo ao jogo de Adivinhação!")
 print("*********************************")
 
-numero_secreto = 42
+numero_secreto = 61
 
 chute_str = input("Digite o seu número: ")
 
