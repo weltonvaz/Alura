@@ -2,18 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63e19d97-f7ec-4ae7-88d4-7aa2ec053ebe" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Alura.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/exer205.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/exer206.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/jogos/adivinhacao.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/forum/Ruldofo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/forum/guilherme.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logica2/aula05/au5-exer001.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logica2/aula05/programa5.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python2.7/aula13/erros3.py" afterPath="$PROJECT_DIR$/python2.7/aula13/erros3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/Parte2/forca.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python3/capitulo6/adivinhacao.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python3/capitulo6/random" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python3/capitulo7/adivinhacao.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python3/exer205.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python3/exer206.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python3/exer304.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/connectedin/db.sqlite3" afterPath="$PROJECT_DIR$/temp/connectedin/db.sqlite3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/connectedin/manage.py" afterPath="$PROJECT_DIR$/django/connectedin/manage.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python2.7/aula11/app.py" afterPath="$PROJECT_DIR$/python2.7/aula11/app.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python2.7/aula11/biblioteca.py" afterPath="$PROJECT_DIR$/python2.7/aula11/biblioteca.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python2.7/aula11/models.py" afterPath="$PROJECT_DIR$/python2.7/aula11/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python2.7/aula12/app.py" afterPath="$PROJECT_DIR$/python2.7/aula12/app.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python2.7/aula12/biblioteca.py" afterPath="$PROJECT_DIR$/python2.7/aula12/biblioteca.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python2.7/aula12/models.py" afterPath="$PROJECT_DIR$/python2.7/aula12/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python2.7/aula12/perfis.csv" afterPath="$PROJECT_DIR$/python2.7/aula12/perfis.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python2.7/aula13/app.py" afterPath="$PROJECT_DIR$/python2.7/aula13/app.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python2.7/aula13/biblioteca.py" afterPath="$PROJECT_DIR$/python2.7/aula13/biblioteca.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python2.7/aula13/models.py" afterPath="$PROJECT_DIR$/python2.7/aula13/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python2.7/aula13/perfil.csv" afterPath="$PROJECT_DIR$/python2.7/aula13/perfil.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python2.7/aula7/app.py" afterPath="$PROJECT_DIR$/python2.7/aula7/app.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python2.7/aula7/biblioteca.py" afterPath="$PROJECT_DIR$/python2.7/aula7/biblioteca.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/connectedin/connectedin/__init__.py" afterPath="$PROJECT_DIR$/temp/connectedin/connectedin/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/connectedin/connectedin/settings.py" afterPath="$PROJECT_DIR$/temp/connectedin/connectedin/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/connectedin/connectedin/urls.py" afterPath="$PROJECT_DIR$/temp/connectedin/connectedin/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/connectedin/connectedin/wsgi.py" afterPath="$PROJECT_DIR$/temp/connectedin/connectedin/wsgi.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/connectedin/manage.py" afterPath="$PROJECT_DIR$/temp/connectedin/manage.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/connectedin/perfis/__init__.py" afterPath="$PROJECT_DIR$/temp/connectedin/perfis/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/connectedin/perfis/admin.py" afterPath="$PROJECT_DIR$/temp/connectedin/perfis/admin.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/connectedin/perfis/migrations/__init__.py" afterPath="$PROJECT_DIR$/temp/connectedin/perfis/migrations/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/connectedin/perfis/models.py" afterPath="$PROJECT_DIR$/temp/connectedin/perfis/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/connectedin/perfis/tests.py" afterPath="$PROJECT_DIR$/temp/connectedin/perfis/tests.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/connectedin/perfis/views.py" afterPath="$PROJECT_DIR$/temp/connectedin/perfis/views.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,9 +47,9 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="adivinhacao.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python3/jogos/adivinhacao.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="forca.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python3/Parte2/forca.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -37,16 +60,30 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="PUSH_TAGS">
       <GitPushTagMode />
     </option>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Python3/Parte2/forca.py" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2560" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="y" value="28" />
+    <option name="width" value="2560" />
+    <option name="height" value="1052" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -94,31 +131,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Alura" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Alura" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jogos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="/usr/local/bin/python3.6" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.python" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -202,6 +221,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="63e19d97-f7ec-4ae7-88d4-7aa2ec053ebe" name="Default" comment="" />
@@ -213,26 +235,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2560" y="0" width="1920" height="1080" extended-state="6" />
+    <frame x="0" y="28" width="2560" height="1052" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32552084" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07677009" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21546961" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2358804" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -264,7 +286,12 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python3/jogos/adivinhacao.py">
+    <entry file="file://$PROJECT_DIR$/Python3/jogos/adivinhacao.py" />
+    <entry file="file://$PROJECT_DIR$/Python3/jogos/adivinhacao.py" />
+    <entry file="file://$PROJECT_DIR$/Python3/jogos/adivinhacao.py" />
+    <entry file="file://$PROJECT_DIR$/Python3/capitulo6/adivinhacao.py" />
+    <entry file="file://$PROJECT_DIR$/Python3/jogos/adivinhacao.py" />
+    <entry file="file://$PROJECT_DIR$/Python3/Parte2/forca.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
