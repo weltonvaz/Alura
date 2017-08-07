@@ -1,0 +1,21 @@
+<meta charset='utf-8'>
+
+<script>
+
+var pontospassados = parseInt(prompt('Quanto pontos seu time fez no ano passado?'));
+var vitorias = parseInt(prompt('Entre com o número de vitórias: '));
+var empates = parseInt(prompt('Entre com o número de empates: '));
+
+var pontos = vitorias * 3 + empates;
+document.write('Seu time fez ' + pontospassados + ' pontos no passado e tem ' + pontos + ' pontos atualmente.<br>');
+
+if (pontos > pontospassados)
+    document.write('Seu time está melhor do que o ano passado.<br>');
+if (pontos < pontospassados)
+    document.write('Seu time está pior do que o ano passado.<br>');
+if (pontos == pontospassados)
+    document.write('Seu time está igual ao ano passado.<br><br>');
+
+document.write('Obrigado por usar nossos serviços.');
+
+</script>

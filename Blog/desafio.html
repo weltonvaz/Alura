@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Datas</title>
+</head>
+<body>
+  <table>
+    <thead>
+      <tr>
+        <th>Names</th>
+        <th>Ages</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr class="person">
+        <td class="name">Breno</td>
+        <td class="ages">19</td>
+      </tr>
+    <tr class="person">
+        <td class="name">Maya</td>
+        <td class="ages">15</td>
+      </tr>
+    <tr class="person">
+        <td class="name">Fernanda</td>
+        <td class="ages">22</td>
+      </tr> 
+    </tbody>
+    <tfoot>
+      <td>Total Ages</td>
+      <td colspan="2" class="total"> ???</td>
+    </tfoot>                         
+  </table>
+  <script>
+  <!-- JAVASCRIP -->
+  const $ = document.querySelectorAll.bind(document);
+  $('.total')[0].textContent =
+  [...$('.ages')].reduce((total, ages) => 
+    total + (parseInt(ages, 10) >= 18 ? parseInt(ages, 10) : 0), 0);
+
+  </script>
+</body>
+</html>
