@@ -2,11 +2,8 @@
 
 int main() {
     printf("************************************\n");
-    printf("* Bem vindo ao Jogo de Adivinhação *\n");
+    printf("* Ola linguagem C *\n");
     printf("************************************\n");
 
-int numerosecreto;
-
-numerosecreto = 42;
 
 }
