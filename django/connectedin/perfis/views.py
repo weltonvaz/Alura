@@ -1,5 +1,9 @@
-from django.shortcuts import render
-from django.http import HttpResponse
+# connectedin/perfis/views.py 
 
-def index(request):
-    return HttpResponse('Bem-vindo ao Connectedin')
+# código anterior omitido
+
+def exibir(request, perfil_id):
+
+    perfil = Perfil.objects.get(id=perfil_id)
+    return render(request, 'perfil.html', { "perfil" : perfil})
+
